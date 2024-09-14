@@ -1,4 +1,4 @@
-# CodeAlpha_SimpleE-commerceStore
+# CodeAlpha_E-commerceStore
 # MultiShop - Online Shop Website Template
 
 MultiShop is a modern and fully responsive e-commerce website template designed to help you create a stunning online store. Built with HTML, CSS, and Bootstrap, this template is ideal for businesses looking to establish a professional and functional online presence.
